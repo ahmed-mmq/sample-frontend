@@ -1,6 +1,7 @@
 # sample-frontend angular 
 
-ui design for facebook home page for blik22 page 
+ui design for facebook home page for blink22 page
+
 simulate loading post on scroll the page
 
 # content
