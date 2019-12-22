@@ -1,0 +1,35 @@
+.menu-container {
+    .title{
+        margin-top:20px;
+        font-size:25px;
+        font-weight: 400;
+    } 
+    .sub-title{
+        color: #8f9cb4;
+    }
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 20px;
+
+    li{
+        cursor: pointer;
+        padding: 2px 5px;
+        &:hover , &:first-child{
+            background-color: #f5f6f7;
+            border: 1px solid #dddfe2;
+            font-weight: bold;
+        }
+
+    }
+  }
+}
+
+.profile-img-container {
+    .profile-img {
+      width: 170px;
+      height: 170px;
+      border-radius: 50%;
+      margin: 10px 0;
+    }
+  }
